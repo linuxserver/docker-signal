@@ -60,6 +60,9 @@ The application can be accessed at:
 
 * https://yourhost:3001/
 
+>[!WARNING]
+>This container does not encrypt Signal's config.json using a secret manager like gnome-keyring or kwallet, the file is stored in plaintext.
+
 ### Strict reverse proxies
 
 This image uses a self-signed certificate by default. This naturally means the scheme is `https`.
