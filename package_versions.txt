@@ -38,7 +38,7 @@ ca-certificates-utils                                                         20
 cairo                                                                         1.18.4-1                                alpm                           
 catatonit                                                                     0.2.1-2                                 alpm                           
 cffi                                                                          2.0.0                                   python                         
-chromium                                                                      143.0.7499.146-1                        alpm                           
+chromium                                                                      143.0.7499.169-1                        alpm                           
 cli                                                                           UNKNOWN                                 binary                         
 cli-32                                                                        UNKNOWN                                 binary                         
 cli-64                                                                        UNKNOWN                                 binary                         
