@@ -38,7 +38,7 @@ ca-certificates-utils                                                         20
 cairo                                                                         1.18.4-1                                alpm                           
 catatonit                                                                     0.2.1-2                                 alpm                           
 cffi                                                                          2.0.0                                   python                         
-chromium                                                                      144.0.7559.59-1                         alpm                           
+chromium                                                                      144.0.7559.59-3                         alpm                           
 cli                                                                           UNKNOWN                                 binary                         
 cli-32                                                                        UNKNOWN                                 binary                         
 cli-64                                                                        UNKNOWN                                 binary                         
@@ -605,7 +605,7 @@ selkies                                                                       0.
 setuptools                                                                    80.9.0                                  python                         
 shadow                                                                        4.18.0-1                                alpm                           
 shared-mime-info                                                              2.4-2                                   alpm                           
-signal-desktop                                                                7.85.0-1                                alpm                           
+signal-desktop                                                                7.86.0-1                                alpm                           
 sigs.k8s.io/json                                                              v0.0.0-20241014173422-cfa47c3a1cc8      go-module     (+1 duplicate)   
 sigs.k8s.io/randfill                                                          v1.0.0                                  go-module                      
 sigs.k8s.io/structured-merge-diff/v6                                          v6.3.0                                  go-module                      
