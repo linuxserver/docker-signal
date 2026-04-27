@@ -15,7 +15,7 @@ alsa-lib                                                                      1.
 alsa-topology-conf                                                            1.2.5.1-4                             alpm                           
 alsa-ucm-conf                                                                 1.2.15.3-1                            alpm                           
 archlinux-keyring                                                             20260420-1                            alpm                           
-at-spi2-core                                                                  2.60.1-1                              alpm                           
+at-spi2-core                                                                  2.60.2-1                              alpm                           
 attr                                                                          2.5.2-2                               alpm                           
 attrs                                                                         26.1.0                                python                         
 audit                                                                         4.1.4-2                               alpm                           
@@ -619,7 +619,7 @@ selkies                                                                       0.
 setuptools                                                                    82.0.1                                python                         
 shadow                                                                        4.18.0-1                              alpm                           
 shared-mime-info                                                              2.4-3                                 alpm                           
-signal-desktop                                                                8.7.0-1                               alpm                           
+signal-desktop                                                                8.8.0-1                               alpm                           
 sigs.k8s.io/json                                                              v0.0.0-20241014173422-cfa47c3a1cc8    go-module     (+1 duplicate)   
 sigs.k8s.io/randfill                                                          v1.0.0                                go-module                      
 sigs.k8s.io/structured-merge-diff/v6                                          v6.3.0                                go-module                      
