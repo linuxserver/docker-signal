@@ -40,7 +40,7 @@ ca-certificates-utils                                                         20
 cairo                                                                         1.18.4-1                                alpm                           
 catatonit                                                                     0.2.1-2                                 alpm                           
 cffi                                                                          2.0.0                                   python                         
-chromium                                                                      148.0.7778.178-3                        alpm                           
+chromium                                                                      148.0.7778.215-1                        alpm                           
 cli                                                                           UNKNOWN                                 binary                         
 cli-32                                                                        UNKNOWN                                 binary                         
 cli-64                                                                        UNKNOWN                                 binary                         
@@ -69,7 +69,7 @@ device-mapper                                                                 2.
 diffutils                                                                     3.12-2                                  alpm                           
 distro                                                                        1.9.0                                   python                         
 dnspython                                                                     2.8.0                                   python                         
-docker                                                                        1:29.5.1-1                              alpm                           
+docker                                                                        1:29.5.2-1                              alpm                           
 docker-compose                                                                5.1.4-1                                 alpm                           
 duktape                                                                       2.7.0-7                                 alpm                           
 dunst                                                                         1.13.2-1                                alpm                           
@@ -392,7 +392,7 @@ keyutils                                                                      1.
 kmod                                                                          34.2-1                                  alpm                           
 krb5                                                                          1.22.2-1                                alpm                           
 l-smash                                                                       2.14.5-4                                alpm                           
-labwc                                                                         0.20.0-1                                alpm                           
+labwc                                                                         0.20.0-2                                alpm                           
 lame                                                                          3.101.r6531-1                           alpm                           
 lcms2                                                                         2.19.1-1                                alpm                           
 leancrypto                                                                    1.7.2-1                                 alpm                           
@@ -476,7 +476,7 @@ libsoup3                                                                      3.
 libsoxr                                                                       0.1.3-4                                 alpm                           
 libssh2                                                                       1.11.1-1                                alpm                           
 libstdc++                                                                     16.1.1+r12+g301eb08fa2c5-1              alpm                           
-libstemmer                                                                    3.1.0-1                                 alpm                           
+libstemmer                                                                    3.1.1-1                                 alpm                           
 libsysprof-capture                                                            50.0-2                                  alpm                           
 libtasn1                                                                      4.21.0-1                                alpm                           
 libthai                                                                       0.1.30-1                                alpm                           
@@ -530,7 +530,7 @@ libxvmc                                                                       1.
 libxxf86vm                                                                    1.1.7-1                                 alpm                           
 linux-api-headers                                                             6.19-1                                  alpm                           
 linux-headers                                                                 7.0.10.arch1-1                          alpm                           
-llvm-libs                                                                     22.1.5-1                                alpm                           
+llvm-libs                                                                     22.1.6-1                                alpm                           
 lm_sensors                                                                    1:3.6.2-1                               alpm                           
 lmdb                                                                          0.9.35-1                                alpm                           
 lua54                                                                         5.4.8-6                                 alpm                           
@@ -555,7 +555,7 @@ nftables                                                                      1:
 nginx                                                                         1.30.2-1                                alpm                           
 nginx-mod-fancyindex                                                          0.5.2-1                                 alpm                           
 nginx-mod-fancyindex-debug                                                    0.5.2-1                                 alpm                           
-noto-fonts                                                                    1:2026.05.01-1                          alpm                           
+noto-fonts                                                                    1:2026.06.01-1                          alpm                           
 noto-fonts-cjk                                                                20240730-1                              alpm                           
 noto-fonts-emoji                                                              1:2.051-1                               alpm                           
 npth                                                                          1.8-1                                   alpm                           
@@ -588,7 +588,7 @@ perl                                                                          5.
 pillow                                                                        12.2.0                                  python                         
 pinentry                                                                      1.3.2-2                                 alpm                           
 pip                                                                           26.1.1                                  python                         
-pixelflux                                                                     1.6.3                                   python                         
+pixelflux                                                                     1.6.4                                   python                         
 pixman                                                                        0.46.4-1                                alpm                           
 pkgconf                                                                       2.5.1-1                                 alpm                           
 platformdirs                                                                  4.4.0                                   python                         
@@ -618,7 +618,7 @@ selkies                                                                       0.
 setuptools                                                                    82.0.1                                  python                         
 shadow                                                                        4.18.0-1                                alpm                           
 shared-mime-info                                                              2.4-3                                   alpm                           
-signal-desktop                                                                8.12.0-1                                alpm                           
+signal-desktop                                                                8.13.0-1                                alpm                           
 sigs.k8s.io/json                                                              v0.0.0-20250730193827-2d320260d730      go-module     (+1 duplicate)   
 sigs.k8s.io/yaml                                                              v1.6.0                                  go-module     (+1 duplicate)   
 six                                                                           1.17.0                                  python                         
