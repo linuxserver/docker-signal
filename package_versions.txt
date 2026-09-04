@@ -43,7 +43,7 @@ cairo                                                                         1.
 catatonit                                                                     0.2.1-2                                 alpm                           
 certifi                                                                       2026.7.22                               python                         
 cffi                                                                          2.1.1                                   python                         
-chromium                                                                      151.0.7922.173-1                        alpm                           
+chromium                                                                      152.0.7977.82-1                         alpm                           
 click                                                                         8.5.0                                   python                         
 cmake                                                                         4.4.2-1                                 alpm                           
 command-line-arguments                                                        UNKNOWN                                 go-module                      
@@ -713,7 +713,7 @@ selkies                                                                       0.
 setuptools                                                                    84.0.0                                  python                         
 shadow                                                                        4.20.0.arch1-1                          alpm                           
 shared-mime-info                                                              2.5.1-2                                 alpm                           
-signal-desktop                                                                8.25.0-1                                alpm                           
+signal-desktop                                                                8.26.0-1                                alpm                           
 sigs.k8s.io/json                                                              v0.0.0-20250730193827-2d320260d730      go-module     (+1 duplicate)   
 sigs.k8s.io/yaml                                                              v1.6.0                                  go-module     (+2 duplicates)  
 six                                                                           1.17.0                                  python                         
