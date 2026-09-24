@@ -23,6 +23,10 @@ RUN \
   pacman -Sy --noconfirm \
    chromium \
    "signal-desktop${SIGNAL_VERSION:+=$SIGNAL_VERSION}" && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/signal-desktop \
+    /usr/bin/signal-desktop-real && \
   echo "**** cleanup ****" && \
   printf \
     "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" \
